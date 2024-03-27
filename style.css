@@ -87,10 +87,10 @@ section{
     nd: red; */
     overflow-y: auto;
 }
-/* 
+
 .chatdiv::-webkit-scrollbar{
     display: none;
-} */
+}
 .root{
     display: flex;
     margin-top: 5px;
