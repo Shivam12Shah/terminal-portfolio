@@ -78,15 +78,12 @@ section{
 .chatdiv h1{
     font-size: 12px;
 }
-/* .chatdiv{
+.chatdiv{
     height:calc(100% - 40px);
     padding: 10px;
     font-weight: 200;
-    /* backgrou
-    
-    nd: red; */
     overflow-y: auto;
-} */
+}
 
 .chatdiv::-webkit-scrollbar{
     display: none;
